@@ -1,0 +1,12 @@
+
+$primary: #003366; 
+$secondary: #ffffff;
+
+@use "bootstrap/scss/bootstrap";
+
+.hero {
+    padding: 4rem 2rem;
+    background: $primary;
+    color: white;
+    border-radius: 15px;
+}
